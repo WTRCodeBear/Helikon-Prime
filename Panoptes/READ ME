@@ -1,0 +1,15 @@
+Panoptes Build Log
+______________________________
+
+Things to figure out
+  1. Back-end - Python Django
+  2. Front-end - REACT/JS
+  3. IDE -  Will be using VSC, Brackets, and Atom
+  4. UI 
+  5. Database - SQLite/Postgresql 
+  6. API  - Need to get a base program together to qualify for a Bungie API key to access the game(I have been told this is incorrect, I need to research this more)
+  7. Authorizations for users
+  8. hosting - AWS/GitHub hosting/ or Arm's Server computer build that just needs like 12 things to be done
+
+List will be updated and expanded upon as Development continues
+-Arm
