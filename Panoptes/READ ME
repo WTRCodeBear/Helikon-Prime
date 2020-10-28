@@ -3,13 +3,14 @@ ______________________________
 
 Things to figure out
   1. Back-end - Python Django
-  2. Front-end - REACT/JS
+  2. Front-end - REACT/JS looking into Angular now as well
   3. IDE -  Will be using VSC, Brackets, and Atom
   4. UI 
-  5. Database - SQLite/Postgresql 
+  5. Database - SQLite/Postgresql also looking into MySQL or SQLExpress
   6. API  - Need to get a base program together to qualify for a Bungie API key to access the game(I have been told this is incorrect, I need to research this more)
-  7. Authorizations for users
-  8. hosting - AWS/GitHub hosting/ or Arm's Server computer build that just needs like 12 things to be done
+  7. Authorizations for users to have personal data
+  8. hosting - AWS/GitHub hosting/ or Arm's Server computer build that just needs like 12 things to be done 
+  9. Going to be adding a GitHub bot to discord to update other users on changes and progress
 
 List will be updated and expanded upon as Development continues
 
